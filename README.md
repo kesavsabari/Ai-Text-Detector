@@ -46,8 +46,6 @@ The notebook already has all the outputs saved so you can just read through it w
 
 - `AI_Text_Detector.ipynb` - the notebook with everything
 - `AI_Text_Detector.html` - same thing as html if you dont want to open jupyter
-- `Project_Report.pdf` - the report
-- `fig_system.png` - pipeline diagram
 
 ## Limitations
 
