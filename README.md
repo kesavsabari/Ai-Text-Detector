@@ -33,10 +33,6 @@ Some things I found:
 - Mistral 7B instruct and Llama 70B essays were the hardest to catch (~93-95%). GPT-4, Falcon 180B, PaLM etc got caught almost every time.
 - Most of the mistakes are human essays that are very formal and well structured, so they look like AI wrote them.
 
-## Pipeline
-
-![pipeline](fig_system.png)
-
 ## How to run
 
 ```
